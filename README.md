@@ -4,10 +4,10 @@
 </a>
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-sumaiyakawsar.vercel.app/api/spotify-playing" alt="sumaiya Spotify Playing" width="350" />](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq)
 
 <!--
 **sumaiyakawsar/sumaiyakawsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://now-playing-sumaiyakawsar.vercel.app/api/spotify-playing" alt="sumaiya Spotify Playing" width="350" />](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq)
 
 Here are some ideas to get you started:
 
