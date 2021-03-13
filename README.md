@@ -2,11 +2,17 @@
 
 <a href="https://www.linkedin.com/in/sumaiya-kawsar/">Linkedin
 </a>
-### Spotify Playing 🎧
+
+
+[twitter](https://twitter.com/_SumaiyaKawsar)_
+[instagram]: https://www.instagram.com/sumaiya_sume/
+[linkedin]: https://www.linkedin.com/in/sumaiya-kawsar/
 
 
 <!--
 **sumaiyakawsar/sumaiyakawsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Spotify Playing 🎧
 [<img src="https://now-playing-sumaiyakawsar.vercel.app/api/spotify-playing" alt="sumaiya Spotify Playing" width="350" />](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq)
 
 Here are some ideas to get you started:
@@ -20,7 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: (She/Her)
 - ⚡ Fun fact: ...
 -->
-
-[twitter]: https://twitter.com/_SumaiyaKawsar_
-[instagram]: https://www.instagram.com/sumaiya_sume/
-[linkedin]: https://www.linkedin.com/in/sumaiya-kawsar/
