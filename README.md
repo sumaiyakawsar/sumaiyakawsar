@@ -4,9 +4,6 @@
 </a>
 
 
-[twitter](https://twitter.com/_SumaiyaKawsar)_
-[instagram]: https://www.instagram.com/sumaiya_sume/
-[linkedin]: https://www.linkedin.com/in/sumaiya-kawsar/
 
 
 <!--
@@ -25,4 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 - 😄 Pronouns: (She/Her)
 - ⚡ Fun fact: ...
+- 
+[twitter](https://twitter.com/_SumaiyaKawsar)_
+[instagram]: https://www.instagram.com/sumaiya_sume/
+[linkedin]: https://www.linkedin.com/in/sumaiya-kawsar/
 -->
