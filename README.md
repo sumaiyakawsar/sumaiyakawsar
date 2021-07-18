@@ -45,25 +45,23 @@
 
 
 
+<details>
+  <summary> <b>Github Stats</b> </summary>
 
- ### Github Stats
+<!--  ### Github Stats -->
 <p align ="center">
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK's Github Stats"/>
 
-![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true) 
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=batchfile,python,Visual%20Basic%20.Net,ruby&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true&hide_border=true)
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=batchfile,python,Visual%20Basic%20.Net,ruby&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true&hide_title=true"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 
 ![Sumaiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=xcode)
 
 </p>
-
-<!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default) -->
-
-
+</details>
 ### References
 <details>
   <summary>Resources Used to create this Readme</summary>
@@ -84,6 +82,13 @@
 </details>
 
 <!--
+ ![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true) 
+ 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=batchfile,python,Visual%20Basic%20.Net,ruby&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true) 
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default)
 
 github stats
 bg_color=360,ea6161,ffc64d,fffc4d,52fa5a
