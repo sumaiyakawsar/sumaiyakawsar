@@ -62,9 +62,11 @@
 
 </p>
 </details>
-### References
+
+----
+
 <details>
-  <summary>Resources Used to create this Readme</summary>
+  <summary>References</summary>
   
 
 | Name                               | Repository Link                                                |
