@@ -40,16 +40,7 @@
 
  ### Github Stats
 
-![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true)
-
-<!--bg_color=360,ea6161,ffc64d,fffc4d,52fa5a
-text_color=black&icon_color=000-->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true)
-
-<!--&dates=2FD3EB&currStreakNum=red&fire=red&ring=purple&sideLabels=white&sideNums=green&stroke=red-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true&hide_border=true)
+![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=6&theme=discord&no-bg=true&no-frame=true)
 
@@ -74,6 +65,14 @@ text_color=black&icon_color=000-->
 </details>
 
 <!--
+
+github stats
+bg_color=360,ea6161,ffc64d,fffc4d,52fa5a
+text_color=black&icon_color=000
+
+Streak
+&dates=2FD3EB&currStreakNum=red&fire=red&ring=purple&sideLabels=white&sideNums=green&stroke=red
+
  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq)
 
  Gists Count
