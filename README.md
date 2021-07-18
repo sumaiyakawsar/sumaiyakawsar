@@ -1,14 +1,14 @@
 <h1 align="center"> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&size=30&center=true&width=500&lines=Hello%2C+World!;Sumaiya+Kawsar+here.;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&size=30&center=true&width=500&lines=Hello%2C+World!;Sumaiya+Kawsar+here.;)
 
 </h1>
 
- ![Years Badge](https://badges.pufler.dev/years/sumaiyakawsar?&style=flat&color=red&labelColor=pink) ![Repos Badge](https://badges.pufler.dev/repos/sumaiyakawsar?&style=flat&color=red&labelColor=pink) ![Profile views](https://gpvc.arturio.dev/sumaiyakawsar) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sumaiyakawsar&lcolor=black) ![GitHub followers](https://img.shields.io/github/followers/sumaiyakawsar?label=Followers&style=plastic) 
+ ![Years Badge](https://badges.pufler.dev/years/sumaiyakawsar?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/sumaiyakawsar?&style=flat&color=black&labelColor=indigo) ![Profile views](https://gpvc.arturio.dev/sumaiyakawsar) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sumaiyakawsar&lcolor=red&color=black) ![GitHub followers](https://img.shields.io/github/followers/sumaiyakawsar?label=Followers&style=flat&color=black&labelColor=blue) 
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-_SumaiyaKawsar_-55acee?style=plastic&labelColor=55acee&logo=twitter&logoColor=white&link=https://twitter.com/_SumaiyaKawsar_)](https://twitter.com/_SumaiyaKawsar_) [![Linkedin Badge](https://img.shields.io/badge/-Sumaiya_Kawsar-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-kawsar/) [![Instagram Badge](https://img.shields.io/badge/-sumaiyakawsar_-E4405F?style=plastic&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/sumaiyakawsar_/) [![Gmail Badge](https://img.shields.io/badge/-sumaiya.kawsar693@gmail.com-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sumaiyakawsar693@gmail.com) [![whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/+966570406609) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=plastic&labelColor=5865F2&logo=Discord&logoColor=white)](https://discordapp.com/users/522597510406078483) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=plastic&labelColor=1ED760&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq) [![FCC Badge](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=plastic&labelColor=0A0A23&logo=freeCodeCamp&logoColor=white)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq?si=c2ee110c3f154e5b)
+[![Twitter Badge](https://img.shields.io/badge/-_SumaiyaKawsar_-55acee?style=plastic&labelColor=55acee&logo=twitter&logoColor=white&link=https://twitter.com/_SumaiyaKawsar_)](https://twitter.com/_SumaiyaKawsar_) [![Linkedin Badge](https://img.shields.io/badge/-Sumaiya_Kawsar-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-kawsar/) [![Instagram Badge](https://img.shields.io/badge/-sumaiyakawsar_-E4405F?style=plastic&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/sumaiyakawsar_/) [![Gmail Badge](https://img.shields.io/badge/-sumaiya.kawsar693@gmail.com-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sumaiyakawsar693@gmail.com) [![whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/+966570406609) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=plastic&labelColor=5865F2&logo=Discord&logoColor=white)](https://discordapp.com/users/522597510406078483) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=plastic&labelColor=1ED760&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq) [![FCC Badge](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=plastic&labelColor=0A0A23&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/sumaiyakawsar)
 
 -----
 
@@ -40,16 +40,16 @@
 
  ### Github Stats
 
-![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&line_height=27&hide_border=true&hide_title=true)
+![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true)
 
 <!--bg_color=360,ea6161,ffc64d,fffc4d,52fa5a
 text_color=black&icon_color=000-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=red&currStreakLabel=red&currStreakNum=red)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true)
 
 <!--&dates=2FD3EB&currStreakNum=red&fire=red&ring=purple&sideLabels=white&sideNums=green&stroke=red-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=6&theme=discord&no-bg=true&no-frame=true)
 
@@ -62,7 +62,7 @@ text_color=black&icon_color=000-->
 
 | Name                               | Repository Link                                                |
 | ---------------------------------- | -------------------------------------------------------------- |
-| _Typing Title_                     | https://git.io/typing-svg                                      |
+| _Title with Typing Feature_        | https://git.io/typing-svg                                      |
 | _Github Readme Stats and Top Lang_ | https://github.com/anuraghazra/github-readme-stats             |
 | _Github Profile Views Counter_     | https://github.com/arturssmirnovs/github-profile-views-counter |
 | _Github Profile Trophy_            | https://github.com/ryo-ma/github-profile-trophy                |
