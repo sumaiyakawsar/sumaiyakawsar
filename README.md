@@ -45,7 +45,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=6&theme=discord&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 
 ![Sumaiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=xcode)
 
