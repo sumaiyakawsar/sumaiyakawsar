@@ -12,15 +12,13 @@
 
 -----
 
-
- 👋 Hi there, I'm Sumaiya Kawsar. I am 25 years old.
 ### All about Me
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on **100 Days of Code Challenge** for Front-End Development.
-- 🌱 I’m currently learning ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat&labelColor=black&logo=vue.js&logoColor=4FC08D) ![Reactjs Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB)
-- 🤔 Currently I am looking for a full-time-job
+- 🌱 I’m currently learning ![Reactjs Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB) ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat&labelColor=black&logo=vue.js&logoColor=4FC08D) 
 
-- ⚡ Fun fact: ...
+<!-- - 🤔 Currently I am looking for a full-time-job/Complete my Masters - 
+⚡ Fun fact: ...-->
 
 ### Tools and Technologies 
 ###### Languages
@@ -44,6 +42,7 @@
 ![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=6&theme=discord&no-bg=true&no-frame=true)
