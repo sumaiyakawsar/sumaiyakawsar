@@ -45,7 +45,9 @@
 <!--bg_color=360,ea6161,ffc64d,fffc4d,52fa5a
 text_color=black&icon_color=000-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=dark&dates=2FD3EB&currStreakNum=orange&fire=red&ring=purple&sideLabels=white&sideNums=green&stroke=red)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=red&currStreakLabel=red&currStreakNum=red)
+
+<!--&dates=2FD3EB&currStreakNum=red&fire=red&ring=purple&sideLabels=white&sideNums=green&stroke=red-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=powershell,shell,batchfile&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_title=true)
 
