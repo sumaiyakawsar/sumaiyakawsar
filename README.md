@@ -53,7 +53,7 @@ text_color=black&icon_color=000-->
 
 ![Sumaiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=xcode)
 
-### Resources Used to create this Readme
+### References
 <details>
   <summary>Resources Used to create this Readme</summary>
   
