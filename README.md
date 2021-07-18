@@ -57,6 +57,7 @@
 
 </p>
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default)
 ### References
 <details>
   <summary>Resources Used to create this Readme</summary>
@@ -72,6 +73,7 @@
 | _Github Readme Activity Graph_     | https://github.com/Ashutosh00710/github-readme-activity-graph  |
 | _Profile Badges_                   | https://www.shields.io/                                        |
 | _Years & Repos Counter_            | https://pufler.dev/git-badges/                                 |
+| _Spotify Now Playing Card_         | https://github.com/kittinan/spotify-github-profile             |
 
 </details>
 
