@@ -29,9 +29,8 @@
 
 <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default"/>
 
-
 ###### IDE
-![VS code Badge](https://img.shields.io/badge/-VS_code-007ACC?style=flat&labelColor=black&logo=VisualStudioCode&logoColor=007ACC) ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ_IDEA-FD305B?style=flat&labelColor=black&logo=IntelliJIDEA&logoColor=white) ![PyCharm IDEA Badge](https://img.shields.io/badge/-PyCharm-21D789?style=flat&labelColor=black&logo=PyCharm&logoColor=white) ![VisualStudio Badge](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat&labelColor=black&logo=VisualStudio&logoColor=5C2D91) ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&labelColor=black&logo=Jupyter&logoColor=F37626)
+![VS code Badge](https://img.shields.io/badge/-VS_code-007ACC?style=flat&labelColor=black&logo=VisualStudioCode&logoColor=007ACC) ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ_IDEA-FD305B?style=flat&labelColor=black&logo=IntelliJIDEA&logoColor=white) ![PyCharm IDEA Badge](https://img.shields.io/badge/-PyCharm-21D789?style=flat&labelColor=black&logo=PyCharm&logoColor=white) ![VisualStudio Badge](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat&labelColor=black&logo=VisualStudio&logoColor=5C2D91) ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat&labelColor=black&logo=Jupyter&logoColor=F37626)
 ###### Designing 
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&labelColor=black&logo=Canva&logoColor=00C4CC) ![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&labelColor=black&logo=AdobeXD&logoColor=FF61F6) ![Adobe Illustrator Badge](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&labelColor=black&logo=AdobeIllustrator&logoColor=FF9A00) ![Adobe Photoshop Badge](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&labelColor=black&logo=AdobePhotoshop&logoColor=31A8FF) ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=black&logo=Figma&logoColor=F24E1E)
 
