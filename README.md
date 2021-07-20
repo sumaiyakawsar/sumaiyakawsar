@@ -27,14 +27,7 @@
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396) ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=4479A1) ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=PHP&logoColor=777BB4) ![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=WordPress&logoColor=21759B) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
 ![Markdown Badge](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&labelColor=black&logo=Markdown&logoColor=white)
 
-
 <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default"/>
-<img align="right" width="200" src="https://novatorem-sumaiyakawsar.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default"/>
-
-
-[![Spotify](https://novatorem-sumaiyakawsar.vercel.app/api/spotify)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq)
-
-
 
 
 ###### IDE
