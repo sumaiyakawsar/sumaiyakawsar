@@ -1,6 +1,6 @@
 <h1 align="center"> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=black&size=30&center=true&width=500&lines=Hello%2C+World!;Sumaiya+Kawsar+here.;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=c0392b&size=36&center=true&width=500&lines=Hello%2C+World!;Sumaiya+Kawsar+here.;)
 
 </h1>
 
@@ -9,14 +9,16 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-_SumaiyaKawsar_-55acee?style=plastic&labelColor=55acee&logo=twitter&logoColor=white&link=https://twitter.com/_SumaiyaKawsar_)](https://twitter.com/_SumaiyaKawsar_) [![Linkedin Badge](https://img.shields.io/badge/-Sumaiya_Kawsar-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-kawsar/) [![Instagram Badge](https://img.shields.io/badge/-sumaiyakawsar_-E4405F?style=plastic&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/sumaiyakawsar_/) [![Gmail Badge](https://img.shields.io/badge/-sumaiya.kawsar693@gmail.com-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sumaiyakawsar693@gmail.com) [![whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/+966570406609) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=plastic&labelColor=5865F2&logo=Discord&logoColor=white)](https://discordapp.com/users/522597510406078483) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=plastic&labelColor=1ED760&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq) [![FCC Badge](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=plastic&labelColor=0A0A23&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/sumaiyakawsar)
+[![Twitter Badge](https://img.shields.io/badge/-_SumaiyaKawsar_-55acee?style=plastic&labelColor=55acee&logo=twitter&logoColor=white&link=https://twitter.com/_SumaiyaKawsar_)](https://twitter.com/_SumaiyaKawsar_) [![Linkedin Badge](https://img.shields.io/badge/-Sumaiya_Kawsar-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-kawsar/) [![Instagram Badge](https://img.shields.io/badge/-sumaiyakawsar_-E4405F?style=plastic&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/sumaiyakawsar_/) [![Gmail Badge](https://img.shields.io/badge/-sumaiya.kawsar693@gmail.com-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sumaiyakawsar693@gmail.com) [![whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/+966570406609) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=plastic&labelColor=5865F2&logo=Discord&logoColor=white)](https://discordapp.com/users/522597510406078483) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=plastic&labelColor=1ED760&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq) [![FCC Badge](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=plastic&labelColor=0A0A23&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/sumaiyakawsar) [![Buy Me A Coffee Badge](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=plastic&labelColor=FFDD00&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/sumaiyakawsar)
 
 -----
 
 ### All about Me
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on **100 Days of Code Challenge** for Front-End Development.
-- 🌱 I’m currently learning ![Reactjs Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB) ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat&labelColor=black&logo=vue.js&logoColor=4FC08D) 
+- 🔭 I’m currently working on **100 Days of Code Challenge**, **[Devchallenges.io](https://devchallenges.io/paths/responsive-web-developer)** & **[frontendmentor.io](https://www.frontendmentor.io/challenges)** for Front-End Development.
+- 🌱 I’m currently learning ![Reactjs Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB) and trying to improve my CSS-Grid and CSS-Flex skills.
+  
+> **The more you practice, the more you learn**
 
 <!-- - 🤔 Currently I am looking for a full-time-job/Complete my Masters - 
 ⚡ Fun fact: ...-->
@@ -38,6 +40,8 @@
 
 ###### CSS Frameworks
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=black&logo=Sass&logoColor=CC6699) ![Less Badge](https://img.shields.io/badge/-Less-CC6699?style=flat&labelColor=black&logo=Less&logoColor=CC6699)
+
+
 ###### Other Softwares/Version Control System
 ![Adobe Badge](https://img.shields.io/badge/-Adobe-FF0000?style=flat&labelColor=black&logo=adobe&logoColor=FF0000)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032)
 
@@ -85,6 +89,9 @@
 </details>
 
 <!--
+
+![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat&labelColor=black&logo=vue.js&logoColor=4FC08D) 
+
  ![Sumaiya's github stats](https://github-readme-stats.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&hide_title=true) 
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true)  
