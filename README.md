@@ -60,6 +60,10 @@
 
 <img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=batchfile,python,Visual%20Basic%20.Net,ruby&langs_count=6&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true&hide_title=true"/>
 
+ <img  width="400"  src="https://github.com/sumaiyakawsar/sumaiyakawsar/blob/main/images/stat.svg" alt="Sumaiya WakaTime Activity"/>
+
+ 
+ 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 
 ![Sumaiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=xcode)
