@@ -16,7 +16,7 @@
 ### All about Me
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on **100 Days of Code Challenge**, **[Devchallenges.io](https://devchallenges.io/paths/responsive-web-developer)** & **[frontendmentor.io](https://www.frontendmentor.io/challenges)** for Front-End Development.
-- 🌱 I’m currently learning ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&labelColor=black&logo=angular&logoColor=DD0031) and trying to improve my CSS-Grid and CSS-Flex skills.
+- 🌱 I’m currently learning ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&labelColor=black&logo=angular&logoColor=DD0031) 
   
 > **The more you practice, the more you learn**
 
