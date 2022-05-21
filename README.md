@@ -44,6 +44,8 @@
 
 ###### Other Softwares/Version Control System
 ![Adobe Badge](https://img.shields.io/badge/-Adobe-FF0000?style=flat&labelColor=black&logo=adobe&logoColor=FF0000)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032)
+![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&labelColor=black&logo=microsoftexcel&logoColor=217346)
+![Powerpoint Badge](https://img.shields.io/badge/-Microsoft_Powerpoint-B7472A?style=flat&labelColor=black&logo=microsoftpowerpoint&logoColor=B7472A)
 
 
 
