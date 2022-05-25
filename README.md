@@ -36,7 +36,7 @@
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&labelColor=black&logo=Canva&logoColor=00C4CC) ![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&labelColor=black&logo=AdobeXD&logoColor=FF61F6) ![Adobe Illustrator Badge](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&labelColor=black&logo=AdobeIllustrator&logoColor=FF9A00) ![Adobe Photoshop Badge](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&labelColor=black&logo=AdobePhotoshop&logoColor=31A8FF) ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=black&logo=Figma&logoColor=F24E1E)
 
 ###### Frameworks/Libraries
-![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&labelColor=black&logo=pandas&logoColor=150458) ![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&labelColor=black&logo=numpy&logoColor=013243) ![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&labelColor=black&logo=selenium&logoColor=43B02A) ![Material Badge](https://img.shields.io/badge/-Material_UI-2196F3?style=flat&labelColor=black&logo=materialdesign&logoColor=2196F3) ![Wordpress Badge](https://img.shields.io/badge/-Wordpress-21759B?style=flat&labelColor=black&logo=Wordpress&logoColor=21759B)
+![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&labelColor=black&logo=pandas&logoColor=150458) ![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&labelColor=black&logo=numpy&logoColor=013243) ![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&labelColor=black&logo=selenium&logoColor=43B02A) ![Material Badge](https://img.shields.io/badge/-Material_UI-2196F3?style=flat&labelColor=black&logo=materialdesign&logoColor=2196F3) 
 
 ###### CSS Frameworks
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=black&logo=Sass&logoColor=CC6699) ![Less Badge](https://img.shields.io/badge/-Less-CC6699?style=flat&labelColor=black&logo=Less&logoColor=CC6699) ![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
@@ -58,8 +58,6 @@
 <img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK's Github Stats"/>
 
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
-
-
 
 
 <img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=python,Visual%20Basic%20.Net,Shell,Java,ruby&langs_count=10&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true&hide_title=true"/>
