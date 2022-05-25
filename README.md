@@ -67,7 +67,7 @@
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 
-![Sumaiya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=xcode)
+![Sumaiya's github activity graph](https://sk-activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=xcode)
 
 </p>
 
