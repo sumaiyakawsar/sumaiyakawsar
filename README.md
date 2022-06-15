@@ -16,8 +16,9 @@
 ### All about Me
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on **100 Days of Code Challenge**, **[Devchallenges.io](https://devchallenges.io/paths/responsive-web-developer)** & **[frontendmentor.io](https://www.frontendmentor.io/challenges)** for Front-End Development.
-- 🌱 I’m currently learning ![Next Badge](https://img.shields.io/badge/-Next_JS-000000?style=flat&labelColor=black&logo=nextdotjs&logoColor=000000) 
-  
+- 🌱 I’m currently updating my portfolio
+<!--  ![Next Badge](https://img.shields.io/badge/-Next_JS-000000?style=flat&labelColor=black&logo=nextdotjs&logoColor=000000) 
+  -->
 > **The more you practice, the more you learn**
 
 <!-- - 🤔 Currently I am looking for a full-time-job/Complete my Masters - 
