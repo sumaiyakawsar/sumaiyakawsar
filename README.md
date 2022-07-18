@@ -4,7 +4,7 @@
 
 </h1>
 
- ![Years Badge](https://badges.pufler.dev/years/sumaiyakawsar?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/sumaiyakawsar?&style=flat&color=black&labelColor=indigo) ![Profile views](https://gpvc.arturio.dev/sumaiyakawsar) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sumaiyakawsar&lcolor=red&color=black) ![GitHub followers](https://img.shields.io/github/followers/sumaiyakawsar?label=Followers&style=flat&color=black&labelColor=blue) ![Commits Badge](https://badges.pufler.dev/commits/yearly/sumaiyakawsar?&style=flat&color=black&labelColor=magenta) [![wakatime](https://wakatime.com/badge/user/0975cca4-929b-4d71-9261-c654018e5d3e.svg)](https://wakatime.com/@0975cca4-929b-4d71-9261-c654018e5d3e)
+ ![Years Badge](https://badges.pufler.dev/years/sumaiyakawsar?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/sumaiyakawsar?&style=flat&color=black&labelColor=indigo) ![Profile views](https://gpvc.arturio.dev/sumaiyakawsar) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sumaiyakawsar&lcolor=red&color=black) ![GitHub followers](https://img.shields.io/github/followers/sumaiyakawsar?label=Followers&style=flat&color=black&labelColor=blue) ![Commits Badge](https://badges.pufler.dev/commits/yearly/sumaiyakawsar?&style=flat&color=black&labelColor=magenta) [![wakatime](https://wakatime.com/badge/user/0975cca4-929b-4d71-9261-c654018e5d3e.svg?style=plastic)](https://wakatime.com/@0975cca4-929b-4d71-9261-c654018e5d3e)
  
 
 
