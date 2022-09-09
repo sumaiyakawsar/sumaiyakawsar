@@ -3,8 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=c0392b&size=36&center=true&width=500&lines=Hello%2C+World!;Sumaiya+Kawsar+here.;)
 
 </h1>
-
- ![Years Badge](https://badges.pufler.dev/years/sumaiyakawsar?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/sumaiyakawsar?&style=flat&color=black&labelColor=indigo) ![Profile views](https://gpvc.arturio.dev/sumaiyakawsar) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sumaiyakawsar&lcolor=red&color=black) ![GitHub followers](https://img.shields.io/github/followers/sumaiyakawsar?label=Followers&style=flat&color=black&labelColor=blue) ![Commits Badge](https://badges.pufler.dev/commits/yearly/sumaiyakawsar?&style=flat&color=black&labelColor=magenta) [![wakatime](https://wakatime.com/badge/user/0975cca4-929b-4d71-9261-c654018e5d3e.svg?style=plastic)](https://wakatime.com/@0975cca4-929b-4d71-9261-c654018e5d3e)
+<!--
+ ![Years Badge](https://badges.pufler.dev/years/sumaiyakawsar?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/sumaiyakawsar?&style=flat&color=black&labelColor=indigo) ![Commits Badge](https://badges.pufler.dev/commits/yearly/sumaiyakawsar?&style=flat&color=black&labelColor=magenta) 
+ -->
+ 
+ ![Profile views](https://gpvc.arturio.dev/sumaiyakawsar) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sumaiyakawsar&lcolor=red&color=black) ![GitHub followers](https://img.shields.io/github/followers/sumaiyakawsar?label=Followers&style=flat&color=black&labelColor=blue) [![wakatime](https://wakatime.com/badge/user/0975cca4-929b-4d71-9261-c654018e5d3e.svg?style=plastic)](https://wakatime.com/@0975cca4-929b-4d71-9261-c654018e5d3e)
  
 
 
@@ -118,19 +121,20 @@ Streak
 
  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21hzvlxvqkqns6v3qpsletqbq)
 
- Gists Count
+Gists Count
 [![Gists Badge](https://badges.pufler.dev/gists/sumaiyakawsar)](https://badges.pufler.dev)
 
 
-### for Reps
+### for Repos
 [![Updated Badge](https://badges.pufler.dev/updated/{username}/{repo name})](https://badges.pufler.dev)
 
- counts visits
+counts visits
 [![Visits Badge](https://badges.pufler.dev/visits/{username}/{repo name})](https://badges.pufler.dev)
 
 created
 [![Created Badge](https://badges.pufler.dev/created/{username}/{repo name})](https://badges.pufler.dev)
 
+Contributors in a repo
 [![Contributors Display](https://badges.pufler.dev/contributors/{username}/{repo name}?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 
 -->
