@@ -62,7 +62,7 @@
 
 <img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=python,Visual%20Basic%20.Net,Shell,Java,ruby&langs_count=10&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true&hide_title=true"/>
 
- 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 
 ![Sumaiya's github activity graph](https://sk-activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=react-dark&area=true&hide_border=true&custom_title=SK%27s%20Contribution%20graph&radius=16)
