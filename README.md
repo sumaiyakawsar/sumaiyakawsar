@@ -58,12 +58,12 @@
 <!--  ### Github Stats -->
 <p align="center">
  
-<img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK%27s%20Github%20Stats"/>
+<img align="center" width="400" src="https://github-readme-stats-1lil1gp0s-sumaiyakawsar.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK%27s%20Github%20Stats"/>
 
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
 
-<img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=python,Visual%20Basic%20.Net,Shell,Java,ruby&langs_count=10&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true&hide_title=true"/>
+<img align="center" width="400" src="https://github-readme-stats-1lil1gp0s-sumaiyakawsar.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=python,Visual%20Basic%20.Net,Shell,Java,ruby&langs_count=10&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true&hide_title=true"/>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
