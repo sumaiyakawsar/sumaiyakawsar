@@ -18,7 +18,7 @@
 
 ### All about Me
 - 😄 Pronouns: She/Her
-- Currently I am completing my Masters.
+- 🎓 Currently I am completing my Masters. 👩‍🎓
 - 🔭 I’m currently working on **[Devchallenges.io](https://devchallenges.io/paths/responsive-web-developer)** & **[frontendmentor.io](https://www.frontendmentor.io/challenges)** for Front-End Development in my free time.
 - 🌱 I’m currently updating my portfolio website using ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB)
 <!-- - ⚡ Fun fact:  -->
