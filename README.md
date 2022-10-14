@@ -18,13 +18,16 @@
 
 ### All about Me
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on **100 Days of Code Challenge**, **[Devchallenges.io](https://devchallenges.io/paths/responsive-web-developer)** & **[frontendmentor.io](https://www.frontendmentor.io/challenges)** for Front-End Development.
+- Currently I am completing my Masters.
+- 🔭 I’m currently working on **[Devchallenges.io](https://devchallenges.io/paths/responsive-web-developer)** & **[frontendmentor.io](https://www.frontendmentor.io/challenges)** for Front-End Development in my free time.
 - 🌱 I’m currently updating my portfolio website using ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB)
+<!-- - ⚡ Fun fact:  -->
+
 
 > **The more you practice, the more you learn**
 
 <!-- - 🤔 Currently I am looking for a full-time-job/Complete my Masters - 
-⚡ Fun fact: ...-->
+-->
 
 ### Tools and Technologies I've used so far
 ###### 👨‍💻 Programming/Web Languages
@@ -38,18 +41,15 @@
 ###### Designing 
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&labelColor=black&logo=Canva&logoColor=00C4CC) ![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&labelColor=black&logo=AdobeXD&logoColor=FF61F6) ![Adobe Illustrator Badge](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&labelColor=black&logo=AdobeIllustrator&logoColor=FF9A00) ![Adobe Photoshop Badge](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&labelColor=black&logo=AdobePhotoshop&logoColor=31A8FF) ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=black&logo=Figma&logoColor=F24E1E)
 
-###### Frameworks/Libraries
-![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&labelColor=black&logo=pandas&logoColor=150458) ![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&labelColor=black&logo=numpy&logoColor=013243) ![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&labelColor=black&logo=selenium&logoColor=43B02A) ![Material Badge](https://img.shields.io/badge/-Material_UI-2196F3?style=flat&labelColor=black&logo=materialdesign&logoColor=2196F3) 
-
-###### CSS Frameworks
-![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=black&logo=Sass&logoColor=CC6699) ![Less Badge](https://img.shields.io/badge/-Less-CC6699?style=flat&labelColor=black&logo=Less&logoColor=CC6699) ![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
+###### HTML/CSS Frameworks/Libraries
+![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&labelColor=black&logo=selenium&logoColor=43B02A) ![Material Badge](https://img.shields.io/badge/-Material_UI-2196F3?style=flat&labelColor=black&logo=materialdesign&logoColor=2196F3) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=black&logo=Sass&logoColor=CC6699) ![Less Badge](https://img.shields.io/badge/-Less-CC6699?style=flat&labelColor=black&logo=Less&logoColor=CC6699) ![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
 
 
 ###### Other Softwares/Version Control System
-![Adobe Badge](https://img.shields.io/badge/-Adobe-FF0000?style=flat&labelColor=black&logo=adobe&logoColor=FF0000)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032)
-![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&labelColor=black&logo=microsoftexcel&logoColor=217346)
-![Powerpoint Badge](https://img.shields.io/badge/-Microsoft_Powerpoint-B7472A?style=flat&labelColor=black&logo=microsoftpowerpoint&logoColor=B7472A)
+![Adobe Badge](https://img.shields.io/badge/-Adobe-FF0000?style=flat&labelColor=black&logo=adobe&logoColor=FF0000)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032) ![Powerpoint Badge](https://img.shields.io/badge/-Microsoft_Powerpoint-B7472A?style=flat&labelColor=black&logo=microsoftpowerpoint&logoColor=B7472A)
 
+###### Data Related
+![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&labelColor=black&logo=pandas&logoColor=150458) ![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&labelColor=black&logo=numpy&logoColor=013243)![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat&labelColor=black&logo=microsoftexcel&logoColor=217346)
 
 
 <details>
