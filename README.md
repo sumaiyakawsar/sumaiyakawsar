@@ -43,11 +43,13 @@
 ###### Data Visualization
 ![Power BI Badge](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&labelColor=black&logo=powerbi&logoColor=F2C811) ![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&labelColor=black&logo=tableau&logoColor=E97627) ![Lumira Badge](https://img.shields.io/badge/-SAP_Lumira-0FAAFF?style=flat&labelColor=black&logo=sap&logoColor=0FAAFF)
 
-######  IDE
+###### IDE
 ![VS code Badge](https://img.shields.io/badge/-VS_code-007ACC?style=flat&labelColor=black&logo=VisualStudioCode&logoColor=007ACC) ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ_IDEA-FD305B?style=flat&labelColor=black&logo=IntelliJIDEA&logoColor=white) ![PyCharm IDEA Badge](https://img.shields.io/badge/-PyCharm-21D789?style=flat&labelColor=black&logo=PyCharm&logoColor=white) ![VisualStudio Badge](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat&labelColor=black&logo=VisualStudio&logoColor=5C2D91) ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat&labelColor=black&logo=Jupyter&logoColor=F37626) ![Google Badge](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&labelColor=black&logo=googlecolab&logoColor=F9AB00)
 
 ###### Designing 
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&labelColor=black&logo=Canva&logoColor=00C4CC) ![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&labelColor=black&logo=AdobeXD&logoColor=FF61F6) ![Adobe Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&labelColor=black&logo=AdobeIllustrator&logoColor=FF9A00) ![Adobe Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&labelColor=black&logo=AdobePhotoshop&logoColor=31A8FF) ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=black&logo=Figma&logoColor=F24E1E) ![Powerpoint Badge](https://img.shields.io/badge/-Powerpoint-B7472A?style=flat&labelColor=black&logo=microsoftpowerpoint&logoColor=B7472A)
+
+<a href="https://app.daily.dev/sumaiya_k"><img align="right"  src="https://api.daily.dev/devcards/653e77fdd3be44978708ea4726efcc0e.png?r=wxx" width="200" alt="Sumaiya Kawsar's Dev Card"/></a>
 
 ###### HTML/CSS Frameworks/Libraries
 ![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&labelColor=black&logo=selenium&logoColor=43B02A) ![Material Badge](https://img.shields.io/badge/-Material_UI-2196F3?style=flat&labelColor=black&logo=materialdesign&logoColor=2196F3) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=black&logo=Sass&logoColor=CC6699) ![Less Badge](https://img.shields.io/badge/-Less-CC6699?style=flat&labelColor=black&logo=Less&logoColor=CC6699) ![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
@@ -55,8 +57,7 @@
 
 ###### Other Softwares/Version Control System
 ![Adobe Badge](https://img.shields.io/badge/-Adobe-FF0000?style=flat&labelColor=black&logo=adobe&logoColor=FF0000)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032) 
-
-
+ 
 
 <details>
   <summary> <b>Github Stats</b> </summary>
