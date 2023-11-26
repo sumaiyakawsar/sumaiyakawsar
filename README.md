@@ -65,9 +65,9 @@
 <!--  ### Github Stats -->
 <p align="center">
  
-<img align="center" width="400" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK%27s%20Github%20Stats&rank_icon=github"/>
+<img align="center" width="350" src="https://github-readme-stats-sumaiyakawsar.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK%27s%20Github%20Stats&rank_icon=github"/>
 
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
+<img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 <!--
