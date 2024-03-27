@@ -48,7 +48,8 @@
 ###### Designing 
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&labelColor=black&logo=Canva&logoColor=00C4CC) ![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&labelColor=black&logo=AdobeXD&logoColor=FF61F6) ![Adobe Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&labelColor=black&logo=AdobeIllustrator&logoColor=FF9A00) ![Adobe Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&labelColor=black&logo=AdobePhotoshop&logoColor=31A8FF) ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=black&logo=Figma&logoColor=F24E1E) ![Powerpoint Badge](https://img.shields.io/badge/-Powerpoint-B7472A?style=flat&labelColor=black&logo=microsoftpowerpoint&logoColor=B7472A)
 
-<a href="https://app.daily.dev/sumaiya_k"><img align="right"  src="https://api.daily.dev/devcards/653e77fdd3be44978708ea4726efcc0e.png?r=ita" width="200" alt="Sumaiya Kawsar's Dev Card"/></a> 
+
+<a href="https://app.daily.dev/sumaiya_k"><img src="https://api.daily.dev/devcards/v2/OBTRcljDsG2xKnhyqBOSz.png?type=default&r=sbo" width="200" alt="Sumaiya Kawsar's Dev Card"/></a>
 
 ###### HTML/CSS Frameworks/Libraries
 ![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=flat&labelColor=black&logo=selenium&logoColor=43B02A) ![Material Badge](https://img.shields.io/badge/-Material_UI-2196F3?style=flat&labelColor=black&logo=materialdesign&logoColor=2196F3) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=black&logo=Sass&logoColor=CC6699) ![Less Badge](https://img.shields.io/badge/-Less-CC6699?style=flat&labelColor=black&logo=Less&logoColor=CC6699) ![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
