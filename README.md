@@ -32,7 +32,7 @@
 ### Tools and Technologies I've used so far
 ###### 👨‍💻 Programming/Web Languages
 
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&labelColor=black&logo=javascript&logoColor=F7DF1E) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&labelColor=black&logo=java&logoColor=007396) ![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=flat&labelColor=black&logo=WordPress&logoColor=21759B) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=flat&labelColor=black&logo=node.js&logoColor=339933) ![Markdown Badge](https://img.shields.io/badge/-Markdown-black?style=flat&labelColor=black&logo=Markdown&logoColor=white) ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=black&logo=PHP&logoColor=777BB4) ![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&labelColor=black&logo=laravel&logoColor=FF2D20) ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB) ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&labelColor=black&logo=angular&logoColor=DD0031) 
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&labelColor=black&logo=javascript&logoColor=F7DF1E) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&labelColor=black&logo=java&logoColor=007396) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=flat&labelColor=black&logo=node.js&logoColor=339933) ![Markdown Badge](https://img.shields.io/badge/-Markdown-black?style=flat&labelColor=black&logo=Markdown&logoColor=white) ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=black&logo=PHP&logoColor=777BB4) ![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&labelColor=black&logo=laravel&logoColor=FF2D20) ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB) ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&labelColor=black&logo=angular&logoColor=DD0031) 
 
 <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=21hzvlxvqkqns6v3qpsletqbq&cover_image=true&theme=default"/>
 
@@ -105,6 +105,7 @@
 </details>
 
 <!--
+![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=flat&labelColor=black&logo=WordPress&logoColor=21759B)
 
  [![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/sumaiyakawsar.svg)](https://wakatime.com/badge/github/sumaiyakawsar/sumaiyakawsar)
 
