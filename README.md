@@ -51,7 +51,7 @@
 
 
 ###### Other Softwares/Version Control System
-![Adobe Badge](https://img.shields.io/badge/-Adobe-FF0000?style=flat&labelColor=black&logo=adobe&logoColor=FF0000)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032) 
+![Obsidian Badge](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&labelColor=black&logo=obsidian&logoColor=7C3AED)  ![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&labelColor=black&logo=Notion&logoColor=white) ![Audacity Badge](https://img.shields.io/badge/-Audacity-0000CC?style=flat&labelColor=black&logo=Audacity&logoColor=0000CC) ![Github Pages Badge](https://img.shields.io/badge/-Github_Pages-black?style=flat&labelColor=black&logo=Github&logoColor=white) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&labelColor=black&logo=Codepen&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=black&logo=Git&logoColor=F05032) 
  
 ----
 
