@@ -64,11 +64,7 @@
 <img align="center" width="350" src="https://github-stats-extended-frontend-virid.vercel.app/api?username=sumaiyakawsar&count_private=true&theme=midnight-purple&show_icons=true&border_radius=30px&include_all_commits=true&hide_border=true&custom_title=SK%27s%20Github%20Stats&rank_icon=github"/>
 
 <img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakawsar&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
-<!--
-![trophy](https://github-profile-trophy-beta-lime.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
 
-![Sumaiya's github activity graph](https://sk-activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=react-dark&area=true&hide_border=true&custom_title=SK%27s%20Contribution%20graph&radius=16)
--->
 <img align="center" width="300" src="https://github-stats-extended-frontend-virid.vercel.app/api/top-langs/?username=sumaiyakawsar&hide=Visual%20Basic%20.Net,Shell,Java,ruby&langs_count=10&layout=compact&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true"/>
 
 <img align="center" width="400" src="https://github-stats-extended-frontend-virid.vercel.app/api/wakatime?username=sumaiyakawsar&layout=compact&langs_count=10&hide=other&display_format=percent&count_private=true&theme=midnight-purple&border_radius=30px&hide_border=true"/>
@@ -100,7 +96,11 @@
 
 </details>
 
-<!--
+<!-- 
+![trophy](https://github-profile-trophy-beta-lime.vercel.app/?username=sumaiyakawsar&row=1&column=7&theme=discord&no-bg=true&no-frame=true)
+
+![Sumaiya's github activity graph](https://sk-activity-graph.herokuapp.com/graph?username=sumaiyakawsar&theme=react-dark&area=true&hide_border=true&custom_title=SK%27s%20Contribution%20graph&radius=16)
+ 
 ![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=flat&labelColor=black&logo=WordPress&logoColor=21759B)
 
  [![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/sumaiyakawsar.svg)](https://wakatime.com/badge/github/sumaiyakawsar/sumaiyakawsar)
