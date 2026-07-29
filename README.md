@@ -87,7 +87,7 @@
 | Name                               | Repository Link                                                |
 | ---------------------------------- | -------------------------------------------------------------- |
 | _Title with Typing Feature_        | https://git.io/typing-svg                                      |
-| _Github Readme Stats and Top Lang_ | https://github.com/anuraghazra/github-readme-stats             |
+| _Github Readme Stats and Top Lang_ | https://github.com/stats-organization/github-stats-extended    |
 | _Github Profile Views Counter_     | https://github.com/arturssmirnovs/github-profile-views-counter |
 | _Github Profile Trophy_            | https://github.com/ryo-ma/github-profile-trophy                |
 | _Github Readme Streak Stats_       | https://github.com/DenverCoder1/github-readme-streak-stats     |
